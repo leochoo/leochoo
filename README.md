@@ -15,21 +15,30 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Leonard Sangbuem Choo</h1>
 <h3 align="center">A trilingual Master's student at Keio University SFC, Japan</h3>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/Svelte-%2320232a.svg?style=for-the-badge&logo=svelte">
+    <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript">
+    <img src="https://img.shields.io/badge/nestjs-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=D5214B">
+    <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass">
+    <img src="https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite">
+    <img src="https://img.shields.io/badge/jest-%2320232a.svg?style=for-the-badge&logo=jest&logoColor=15C213">
+</p>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=Python&logoColor=yellow">
     <img src="https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask">
-    <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript">
-    <img src="https://img.shields.io/badge/Svelte-%2320232a.svg?style=for-the-badge&logo=svelte">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite">
-    <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass">
-    <img src="https://img.shields.io/badge/nestjs-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=D5214B">
-    <img src="https://img.shields.io/badge/jest-%2320232a.svg?style=for-the-badge&logo=jest&logoColor=15C213">
     <img src="https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase">
-    <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma">
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/adobe_photoshop-%2320232a.svg?style=for-the-badge&logo=adobephotoshop">
-    <img src="https://img.shields.io/badge/adobe_illustrator-%2320232a.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/adobe_illustrator-%2320232a.svg?style=for-the-badge&logo=adobeillustrator">
+    <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma">
     <img src="https://img.shields.io/badge/adobe_xd-%2320232a.svg?style=for-the-badge&logo=adobexd">
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift">
     <img src="https://img.shields.io/badge/arduino-%2320232a.svg?style=for-the-badge&logo=arduino">
 </p>
