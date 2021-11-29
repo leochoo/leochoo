@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Svelte-%2320232a.svg?style=for-the-badge&logo=svelte">
+    <img src="https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue.js">
     <img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript">
     <img src="https://img.shields.io/badge/nestjs-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=D5214B">
     <img src="https://img.shields.io/badge/sass-%2320232a.svg?style=for-the-badge&logo=sass">
