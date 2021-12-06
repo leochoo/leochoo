@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/jest-%2320232a.svg?style=for-the-badge&logo=jest&logoColor=15C213">
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=Python&logoColor=yellow">
+    <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=Python">
     <img src="https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask">
     <img src="https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase">
 </p>
