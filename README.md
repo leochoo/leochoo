@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leochoo" alt="leochoo" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, TypeScript, and Machine Learning**
+- 🌱 I’m currently using **Svelte, Firebase, React, TypeScript, and Machine Learning**
 
 ### Blogs posts
 
