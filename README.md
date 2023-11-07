@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Leonard Sangbuem Choo</h1>
-<h3 align="center">A trilingual Master's student at Keio University SFC, Japan</h3>
+<h3 align="center">A fluent trilingual Frontend Developer based in Japan</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
