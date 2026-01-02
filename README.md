@@ -2,10 +2,8 @@
 **leochoo/leochoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-<div align="center">
-  <img src="header.svg" width="100%" alt="Header" />
-</div>
+<h1 align="center">Hi 👋, I'm Leonard Sangbuem Choo</h1>
+<h3 align="center">A fluent trilingual Frontend Developer based in Japan 🇯🇵</h3>
 
 <p align="center">
   🌱 I’m currently using <strong>Svelte, Firebase, React, TypeScript, and Machine Learning</strong>
