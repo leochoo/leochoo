@@ -5,9 +5,11 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm Leonard Sangbuem Choo</h1>
-  <h3>A fluent trilingual Frontend Developer based in Japan 🇯🇵<br/>🌱 I’m currently using Svelte, Firebase, React, TypeScript, and Machine Learning</h3>
-  <p><a href="https://dev.to/leochoo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"/></a>
-  <a href="https://linkedin.com/in/sangbuemchoo" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a></p>
+  <p>
+    <a href="https://velog.io/@leochoo/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="velog"/></a>&nbsp;&nbsp;
+    <a href="https://dev.to/leochoo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"/></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/sangbuemchoo" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  </p>
 </div>
 
 ---
@@ -18,10 +20,13 @@
 
 ### 👨‍💻 About Me
 
-A fluent trilingual Frontend Developer based in Japan 🇯🇵
-🌱 I’m currently using Svelte, Firebase, React, TypeScript, and Machine Learning
+Leonard Sangbuem Choo  
+Fullstack Engineer · AI/DX Builder · Japan 🇯🇵
 
-<br/>
+- Former Forward Deployed Engineer at Palantir  
+- Frontend & Automation consultant for SMBs  
+- Building AI-powered products and workflows
+
 
 ### 🛠️ Tech Stack
 
